@@ -1,0 +1,6 @@
+1500    ! Nx, cuántos puntos en la malla del fractal hay.
+8000    ! Nt, cuántas divisiones temporales tiene el rk. Se recomiendan múltiplos de tf.
+80      ! tf, hasta qué tiempo se integrará.
+1       ! alpha.
+1       ! beta.
+5.0     ! w.
